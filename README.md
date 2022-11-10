@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# ![](https://github.com/vSunShineJk/vSunShineJk/blob/main/wallpaperflare.com_wallpaper%20(1).jpg)
+<!--- # ![](https://github.com/vSunShineJk/vSunShineJk/blob/main/wallpaperflare.com_wallpaper%20(1).jpg) --->
 
 <!--
 **vSunShineJk/vSunShineJk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
