@@ -1,4 +1,5 @@
-
+I am an aspiring software tester and automation engineer with a strong foundation in Java, Selenium, and API testing. Currently doing an AuPair job in Germany. I am passionate about ensuring software quality and improving efficiency through automation.
+In this profile you can find projects and frameworks from my study and previous job experiences. Below I will leave a short description for some most significant orojects of meine:
 
 <!--- # ![](https://github.com/vSunShineJk/vSunShineJk/blob/main/wallpaperflare.com_wallpaper%20(1).jpg) --->
 
