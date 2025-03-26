@@ -9,6 +9,15 @@ Key Features:
 - Page Object Model (POM
 - Parallel Execution
 - Cross-Browser Testing
+
+2. Selenium
+This project is an automated testing framework built using Selenium WebDriver, designed to streamline web application testing. It provides a robust structure for writing and executing UI automation tests efficiently, ensuring software quality by automating repetitive manual testing tasks. The framework follows best practices such as the Page Object Model (POM) for maintainability and integrates with JUnit/TestNG for structured test execution.
+Key features:
+- Web UI Automation
+- Page Object Model (POM)
+- Data-Driven Testing
+- Explicit & Fluent Waits
+- Logging & Reporting
 <!--- # ![](https://github.com/vSunShineJk/vSunShineJk/blob/main/wallpaperflare.com_wallpaper%20(1).jpg) --->
 
 <!--
