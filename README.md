@@ -1,6 +1,13 @@
 I am an aspiring software tester and automation engineer with a strong foundation in Java, Selenium, and API testing. Currently doing an AuPair job in Germany. I am passionate about ensuring software quality and improving efficiency through automation.
 In this profile you can find projects and frameworks from my study and previous job experiences. Below I will leave a short description for some most significant orojects of meine:
-
+1.Cucumber Project
+Descripttion:  This project is an automated testing framework based on the Cucumber framework, designed to enhance behavior-driven development (BDD) testing.
+Key Features: 
+- Behavior-Driven Development (BDD)
+- Selenium WebDriver Integration
+- Page Object Model (POM
+- Parallel Execution
+- Cross-Browser Testing
 <!--- # ![](https://github.com/vSunShineJk/vSunShineJk/blob/main/wallpaperflare.com_wallpaper%20(1).jpg) --->
 
 <!--
